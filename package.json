@@ -1,0 +1,19 @@
+{
+  "name": "angular-testing-custom-directives-readme-v-000",
+  "version": "1.0.0",
+  "description": " ",
+  "main": "conf.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirandalily/angular-testing-custom-directives-readme-v-000/issues"
+  },
+  "homepage": "https://github.com/mirandalily/angular-testing-custom-directives-readme-v-000#readme"
+}
